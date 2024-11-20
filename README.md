@@ -4,6 +4,9 @@ Machinery like [Biomedical Recording Instruments](https://medium.com/@deepthiaj/
 
 #### [RUL-Prediction-from-NASA-s-Dataset-for-Aircraft-engines-using-Intel-oneAPI](https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/oneAPI-DevSummit-for-AI-HPC-2023-From-ML-to-Generative-AI-Apps/post/1560932)
 
+https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/oneAPI-DevSummit-for-AI-HPC-2023-From-ML-to-Generative-AI-Apps/post/1560932
+
+
 Predictive maintenance of Turbofan Engine can be achieved by the Streamlit application for the prediction of RUL utilizing the interoperability support to leverage the performance enhancements offered by Intel oneAPI. 
 
 [Remaining Useful Life (RUL) Prediction from NASA's Turbofan Engine Degradation Simulation for Aircraft engines using Intel oneAPI](https://huggingface.co/spaces/deepthiaj/RUL_oneAPI)
