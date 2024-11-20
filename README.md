@@ -2,7 +2,8 @@
 
 Machinery like [Biomedical Recording Instruments](https://medium.com/@deepthiaj/unlocking-the-potential-of-biomedical-recording-instruments-addressing-challenges-b4acb3cd0b76) often are subject to wear-and-tear and hence this study on Remaining Useful Life (RUL) with NASA dataset on machines under the influence of even external factors influenced while in space can be an eye-opener to enhance the diagnosis accuracy by assisting maintenance using AI to ensure high precision of the biomedical instruments, especially in applications like telemedicine. 
 
-#### [RUL-Prediction-from-NASA-s-Dataset-for-Aircraft-engines-using-Intel-oneAPI](https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/oneAPI-DevSummit-for-AI-HPC-2023-From-ML-to-Generative-AI-Apps/post/1560932)
+The presentation details can be searched for in the Intel community blog on tech innovation in Artificial Intelligence using the following link, with the blog title, "oneAPI DevSummit for AI & HPC 2023: From ML to Generative AI Apps with Intel AI Tools and Frameworks"
+#### [RUL-Prediction-from-NASA-s-Dataset-for-Aircraft-engines-using-Intel-oneAPI](https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/bg-p/blog-ai)
 
 https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/oneAPI-DevSummit-for-AI-HPC-2023-From-ML-to-Generative-AI-Apps/post/1560932
 
